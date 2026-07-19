@@ -1,7 +1,6 @@
 # Boyi Shi
 
 MSc Student @ KTH Royal Institute of Technology  
-AI Accelerators · 3D-IC EDA · GPU Acceleration
 
 ---
 
