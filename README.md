@@ -1,7 +1,7 @@
 # Boyi Shi
 
 MSc Student @ KTH Royal Institute of Technology  
-AI Accelerators · AI for EDA · Digital IC Design  
+AI Accelerators · 3D-IC EDA · GPU Acceleration
 
 [Homepage](https://boyisstanley.github.io) | 
 [CV](./CV.pdf) | 
@@ -9,54 +9,11 @@ AI Accelerators · AI for EDA · Digital IC Design
 
 ---
 
-## About Me
-
-I am a Master's student at **KTH Royal Institute of Technology** in Sweden, focusing on the intersection of:
-
-- AI Accelerators
-- Machine Learning for Electronic Design Automation (EDA)
-- Digital IC / ASIC Architecture
-- Hardware-efficient Deep Learning
-
-I am particularly interested in **designing hardware architectures for efficient machine learning systems**, including quantization, approximate computing, and accelerator design.
-
-Currently working on **hardware acceleration for State Space Models (Mamba)**.
-
----
-
 ## Research Interests
 
-- Deep Learning Accelerators
-- Machine Learning for EDA
-- Digital IC Architecture
-- FPGA / ASIC Design
-- Hardware-efficient Deep Learning
-
----
-
-## Education
-
-**KTH Royal Institute of Technology**  
-MSc in Electrical Engineering / Computer Engineering  
-Stockholm, Sweden  
-
-Relevant Coursework:
-
-- Machine Learning
-- High Performance Computing
-- Deep Learning
-- FPGA & ASIC Design
-
-**South China University of Technology**  
-BS in Microelectronics  
-Guangzhou, China  
-
-Relevant Coursework:
-
-- Digital Integrated Circuit Design
-- Analog Integrated Circuit Design
-- Verilog and FPGA
-- C++ Programming
+- DL Accelerators
+- 3D-IC EDA
+- GPU Acceleration
 
 ---
 
@@ -66,7 +23,7 @@ Relevant Coursework:
 
 - Python
 - C / C++
-- Verilog/SystemVerilog
+- Verilog
 
 ### Hardware Design
 
@@ -74,7 +31,6 @@ Relevant Coursework:
 - FPGA (Vivado)
 - Cadence Virtuoso
 - Innovus
-- Mentor
 
 ### Machine Learning
 
