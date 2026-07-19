@@ -3,10 +3,6 @@
 MSc Student @ KTH Royal Institute of Technology  
 AI Accelerators · 3D-IC EDA · GPU Acceleration
 
-[Homepage](https://boyisstanley.github.io) | 
-[CV](./CV.pdf) | 
-[Email](mailto:your_email@kth.se)
-
 ---
 
 ## Research Interests
@@ -29,8 +25,6 @@ AI Accelerators · 3D-IC EDA · GPU Acceleration
 
 - ASIC
 - FPGA (Vivado)
-- Cadence Virtuoso
-- Innovus
 
 ### Machine Learning
 
@@ -43,15 +37,4 @@ AI Accelerators · 3D-IC EDA · GPU Acceleration
 - Docker
 - Linux
 - Git
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boyisStanley&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boyisStanley&layout=compact)
-
----
-
 
